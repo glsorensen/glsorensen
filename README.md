@@ -1,3 +1,7 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+<h3>Hi! 👋<br>I'm Gunnar Sorensen<br>Current Backend Developer, Aspiring Full Stack Developer</h3>
+
 Hello, my name is Gunnar Sorensen, and I am a Back-End Software Engineer with a passion for analyzing and solving complex technical problems in a team environment. My 17-year background coaching Alpine Ski Racing, which spread from teaching first-timers to coaching Olympic-level athletes in their quest to find those extra hundredths of a second, helped hone my skills in collaboration with diverse teams with a variety of end goals. In Addition, I learned to work through complex technical challenges in high-pressure environments to help others perform at their highest level possible.
 
 While I believe everyone's needs for development are different, I think the goal is the same: Identify the problem, formulate a solution, test the results, and repeat until the goal is accomplished. I firmly believe that my skills in identifying technical issues, communicating them with the clients, and then working collaboratively with a team to tackle those problems will be an asset to any organization.
