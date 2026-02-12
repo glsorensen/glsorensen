@@ -1,28 +1,55 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hey, I'm Gunnar 👋
+                                                                                                                                                                                                  
+  **Quality Engineer | Data Engineer | AI Engineer**        
 
-<h3>Hi! 👋<br>I'm Gunnar Sorensen<br>Current Backend Developer, Aspiring Full Stack Developer</h3>
+  I build data quality frameworks, automate pipeline testing, and leverage AI to make engineering teams faster and more reliable. Currently at Slalom, where I've driven quality for clients like
+  Apple and the Crohn's & Colitis Foundation — covering 200+ data pipelines, building automated testing systems, and shipping zero production defects.
 
-Hello, my name is Gunnar Sorensen, and I am a Back-End Software Engineer with a passion for analyzing and solving complex technical problems in a team environment. My 17-year background coaching Alpine Ski Racing, which spread from teaching first-timers to coaching Olympic-level athletes in their quest to find those extra hundredths of a second, helped hone my skills in collaboration with diverse teams with a variety of end goals. In Addition, I learned to work through complex technical challenges in high-pressure environments to help others perform at their highest level possible.
+  Before tech, I spent 15+ years coaching alpine ski racing at the highest levels, including the U.S. Ski Team. That background gave me a bias for precision, a calm presence under pressure, and
+  the ability to elevate the people around me.
 
-While I believe everyone's needs for development are different, I think the goal is the same: Identify the problem, formulate a solution, test the results, and repeat until the goal is accomplished. I firmly believe that my skills in identifying technical issues, communicating them with the clients, and then working collaboratively with a team to tackle those problems will be an asset to any organization.
+  ## 🔧 Technologies & Tools
 
-When not behind the computer, you can find me in the Mountains camping and mountaineering with my dog Sakic! I also have a passion for food (making and eating), and you will never see me pass up the opportunity to enjoy an excellent Thai Green Curry.
+  <div align="center">
 
-<hr/>
+  **Languages & Data**
 
-## 🔧 Technologies & Tools
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
-<div align="center">
-<img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />                     
-</div>
-  
-<div>
-  <hr/>
- </div>
- 
- ## &#x1f4c8; GitHub Stats
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=glsorensen&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![GUnnars's GitHub stats](https://github-readme-stats.vercel.app/api?username=glsorensen&show_icons=true&theme=github_dark)](https://github.com/glsorensen/github-readme-stats)
+  **Data & Cloud**
 
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-<!--   [![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=glsorensen&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  **AI & Dev Tools**
+
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+
+  **CI/CD & Testing**
+
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img 
+  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+  </div>
+
+  ---
+
+  When I'm not engineering, I'm captaining my hockey team (Skol HC), chasing my dog Sakic through the mountains, or hunting down an excellent Thai green curry.
+
+  ## 📈 GitHub Stats
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=glsorensen&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
